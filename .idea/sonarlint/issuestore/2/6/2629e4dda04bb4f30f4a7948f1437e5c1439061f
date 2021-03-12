@@ -1,0 +1,17 @@
+
+`
+java:S1128"CRemove this unused import 'java.util.concurrent.CompletableFuture'.(ôŞä´8½èõ.
+N
+java:S1128"1Remove this unused import 'graphql.GraphQLError'.(§çñû8ğì¸œõ.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8½èõ.
+T
+java:S1172"2Remove this unused method parameter "bankAccount".(»¡üÿÿÿÿ8ºü®œõ.
+]	java:S125"<This block of commented-out lines of code should be removed.(Ê‚ÊÍùÿÿÿÿ8ÀËÎšõ.
+\
+java:S1128":Remove this unused import 'graphql.GraphqlErrorException'.(ñ´úåûÿÿÿÿ8´è±œõ.
+U
+java:S1068"3Remove this unused "executorService" private field.(òÎä¸ùÿÿÿÿ8½èõ.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ú¤î 8ù¬³œõ.
+[
+java:S1128"9Remove this unused import 'org.apache.catalina.Executor'.(É¥¡·ÿÿÿÿÿ8ò‚õ.

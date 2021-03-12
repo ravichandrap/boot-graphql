@@ -1,0 +1,12 @@
+graphql:
+  servlet:
+    max-query-depth: 5
+  playground:
+    tabs:
+      - name: Bank Account sample query
+        query: classpath:playground/bank_account.graphql
+        variables: classpath:playground/bank_account_variables.json
+
+voyager:
+  cdn:
+    enabled: true
